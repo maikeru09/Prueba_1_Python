@@ -1,2 +1,2 @@
-# Prueba_1_Python
+# Prueba1_Python
 Calculadora sencilla
